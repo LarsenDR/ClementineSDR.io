@@ -1,6 +1,3 @@
-ClementineSDR website
-
-https://clementinesdr.io
 
 # ClementineSDR website
 ### at
